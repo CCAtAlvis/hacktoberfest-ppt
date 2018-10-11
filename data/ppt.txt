@@ -1,0 +1,81 @@
+Slide 1 :-
+Technologies
+
+Technology is always evolving. New developments, such as OpenStack, Progressive Web Apps, Rust, R, the cognitive cloud, artificial intelligence (AI), the Internet of Things, and more
+
+lOGOS
+
+New open source intelligent solutions are set to change the way people interact with systems and transform the very nature of work.
+
+AI 
+
+Lets Discuss today how Open Source AI libraries are  changing the world
+
+GOOGLE PRODUCTS  IMAGE
+
+AI is making it easier for people to do things every day, whether it’s searching for photos, breaking down language barriers in Google Translate, typing emails on the go, or getting things done with the Google Assistant. AI also provides new ways of looking at existing problems, from rethinking healthcare to advancing scientific discovery.
+
+
+One of the great open source tool to start in the field of AI is Tensorflow
+
+TENSORFLOW IMAGE
+
+WHAT IS TENSORFLOW IMAGE
+
+Like so many things it started as a research paper
+
+IN SLIDE   
+Tensorflow
+1)open source software for implementing machine learning algorithms particularly neutral network.
+2) developed by Google and open sourced the project in 2015.
+3) Tensorflow is this machine learning library that's used across Google for applying deep learning to lot of different areas 
+4) it's versatile because available for many platform
+END
+
+platforms
+tensorflow lite and tensorflow.js
+IMAGE 
+TFLITE and TFJS
+
+Lets Discuss how people are using Tensorflow in the real world
+
+I would like to share shaza story how she used tensorflow
+
+SHAZA VIDEO
+
+Similiarly there are many projects on the github were people from various streams upload their projects so that it can be used in all places.
+
+example here is one of the fun project on github, using tensorflow to detect fruits
+
+GITHUB REPO
+
+another example, here is a Japanese farmer using tensorflow to sort cucumber 
+
+CUCUMBERSORTER image
+
+other open source ai libraries
+
+INSLIDE
+pytorch
+IMAGE
+PyTorch is an open source machine learning library for Python, based on Torch used for applications such as natural language processing.[4] It is primarily developed by Facebook's artificial-intelligence research group.
+
+CNTK:
+IMAGE
+Microsoft Cognitive Toolkit,[2] previously known as CNTK , is a deep learning framework developed by Microsoft Research. 
+END
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
