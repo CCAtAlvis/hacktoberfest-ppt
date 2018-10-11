@@ -20,12 +20,21 @@
 			link.href = window.location.search.match( /print-pdf/gi ) ? 'css/print/pdf.css' : 'css/print/paper.css';
 			document.getElementsByTagName( 'head' )[0].appendChild( link );
 		</script>
+
+<style>
+    body {
+        background: url( './data/bg-noise.png' );
+    }
+	img {
+		border: 0 !important;
+	}
+</style>
 	</head>
 	<body>
 		<div class="reveal">
 			<div class="slides">
 				<section>What is Open Source?</section>
-				<section>What is Hacktoberfest</section>
+				<section>What is Hacktoberfest?</section>
 				
 				<!-- <section data-transition="fade-out">Git..</section>
 				<section data-transition="fade-in fade-out">and GitHub</section> -->
@@ -117,13 +126,13 @@
 				</section>
 
 				<section>
-					<img>
+					<img src="./data/tensorflow.png">
 					<br>
-					tensorflow/tensorflow
+					<a href="https://github.com/tensorflow/tensorflow">tensorflow/tensorflow</a>
 				</section>
 
 				<section>
-					MuhammedBuyukkinaci/Fruit-Detector
+					<a href="https://github.com/MuhammedBuyukkinaci/Fruit-Detector">MuhammedBuyukkinaci/Fruit-Detector</a>
 				</section>
 
 				<!-- TOPIC #3 -->
